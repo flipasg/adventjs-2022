@@ -1,2 +1,3 @@
 # adventjs-2022
-https://adventjs.dev/#retos of 2022 by Midudev
+
+My solutions to [@midudev](https://github.com/midudev) exercises on http://adventjs.dev 2022
